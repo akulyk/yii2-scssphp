@@ -3,7 +3,7 @@ Yii2 bindings for SCSS-PHP
 ==========================
 
 This library provides some improvments of
-[lucidtaz/yii2scssphp](https://github.com/LucidTaZ/yii2-scssphp) into
+[lucidtaz/yii2scssphp](https://github.com/LucidTaZ/yii2-scssphp) for
 [Yii2](https://github.com/yiisoft/yii2). Scssphp is a native PHP SCSS (SASS)
 compiler. This improvment enables you to set destination folder for compiled file or use the 
 same folder.
@@ -27,8 +27,4 @@ $config = [
 ];
 ```
 
-If the `AppAsset` is placed in `/assets` and the scss file in
-`/assets/source/site.scss`, your `AppAsset.php` could look like:
 
-
-```
