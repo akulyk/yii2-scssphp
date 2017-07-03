@@ -6,6 +6,9 @@ namespace akulyk\yii2scssphp;
 class ScssAssetConverter extends lucidtaz\yii2scssphp\ScssAssetConverter
 {
 
+    /**
+     * @var directory for compiled files
+     */
     public $destDir;
 
 
@@ -25,4 +28,4 @@ class ScssAssetConverter extends lucidtaz\yii2scssphp\ScssAssetConverter
     }
 
 
-}
+}/* end of Class */
