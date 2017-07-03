@@ -3,7 +3,7 @@
 namespace akulyk\yii2scssphp;
 
 
-class ScssAssetConverter extends lucidtaz\yii2scssphp\ScssAssetConverter
+class ScssAssetConverter extends \lucidtaz\yii2scssphp\ScssAssetConverter
 {
 
     /**
